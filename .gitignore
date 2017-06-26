@@ -1,0 +1,6 @@
+/.settings
+/target/classes
+/target/m2e-wtp/web-resources/META-INF
+/target
+/.project
+/.classpath
